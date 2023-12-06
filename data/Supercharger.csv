@@ -1,0 +1,410 @@
+﻿Supercharger,Street Address,City of Industry,State,Zip,Country,Stalls,Kw,GPS,Elev
+"Corning, CA",950 Hwy 99,Corning,CA,96021,USA,6,150,"39.926454, -122.198393",87
+"Roseville, CA",1151 Galleria Blvd,Roseville,CA,95678,USA,7,150,"38.771208, -121.266149",66
+"Oxnard, CA",2751 Park View Ct,Oxnard,CA,93036,USA,20,150,"34.238654, -119.177398",24
+"Buellton, CA",555 McMurray Rd,Buellton,CA,93427,USA,10,150,"34.61456, -120.188387",114
+"El Centro, CA",3451 S Dogwood Rd,El Centro,CA,92243,USA,12,150,"32.760837, -115.532486",-8
+"Indio, CA",42100 Jackson St,Indio,CA,92203,USA,46,250,"33.741484, -116.215019",-3
+"Atascadero, CA",6950 El Camino Real,Atascadero,CA,93422,USA,8,125,"35.48656, -120.66633",262
+"Richmond - Meeker Ave, CA",2157 Meeker Ave,Richmond,CA,94804,USA,12,150,"37.919969, -122.348976",4
+"San Luis Obispo - Higuera St, CA",3897 S Higuera St,San Luis Obispo,CA,93401,USA,20,250,"35.247841, -120.67193",38
+"El Centro - Wake Ave, CA",330 Wake Ave,El Centro,CA,92243,USA,8,250,"32.7729, -115.5501",-11
+"Truckee - Donner Pass, CA",11290 Donner Pass Rd,Truckee,CA,96161,USA,11,150,"39.327507, -120.207373",1967
+"King City, CA",600 Canal St,King City,CA,93930,USA,16,250,"36.202218, -121.12983",95
+"Vista, CA",401 Vista Village Dr,Vista,CA,92083,USA,20,250,"33.2008, -117.2455",98
+"San Jose - Saratoga Ave, CA",1320 Saratoga Ave,San Jose,CA,95129,USA,12,250,"37.3006, -121.9812",62
+"Soledad - Front St, CA",100 Front St,Soledad,CA,93960,USA,8,250,"36.429889, -121.334477",56
+"Chula Vista - Telegraph Canyon Rd, CA",505 Telegraph Canyon Rd,Chula Vista,CA,91910,USA,12,250,"32.628946, -117.041103",65
+"Rocklin (SC), CA",4361 Granite Dr,Rocklin,CA,95677,USA,18,150,"38.800537, -121.210485",98
+"Inyokern, CA",1353 Brown Rd,Inyokern,CA,93527,USA,4,150,"35.646461, -117.812629",742
+"San Mateo - Bridgepointe Pkwy, CA",2220 Bridgepointe Pkwy,San Mateo,CA,94404,USA,12,120,"37.558546, -122.284614",3
+"Redondo Beach, CA",2410 Marine Ave,Redondo Beach,CA,90278,USA,8,150,"33.894294, -118.367379",21
+"Cupertino, CA",19500 Vallco Parkway,Cupertino,CA,95014,USA,10,150,"37.324372, -122.009179",55
+"Mojave - 16940 Hwy 14, CA",Anthony's Grill 16940 California 14 Hwy 14,Mojave,CA,93501,USA,12,250,"35.068595, -118.174576",866
+"San Mateo, CA",1200 Park Pl,San Mateo,CA,94403,USA,8,150,"37.544632, -122.290188",3
+"Mountain View, CA",1401 N Shoreline Blvd,Mountain View,CA,94043,USA,12,150,"37.415344, -122.076607",6
+"Burbank - N Victory Blvd, CA",677 N Victory Blvd,Burbank,CA,91506,USA,24,250,"34.179384, -118.320974",175
+"Newark, CA",3100 Newpark Mall,Newark,CA,94560,USA,16,72,"37.525905, -122.006624",9
+"Santa Ana, CA",2800 N Main St,Santa Ana,CA,92705,USA,12,150,"33.776011, -117.872176",47
+"Fountain Valley, CA",17900 Newhope St,Fountain Valley,CA,92708,USA,16,150,"33.70278, -117.934127",11
+"San Rafael, CA",340 3rd St,San Rafael,CA,94901,USA,8,250,"37.971375, -122.517193",3
+"Buttonwillow, CA",20673 Tracy Ave,Buttonwillow,CA,93206,USA,10,150,"35.400105, -119.397796",90
+"Mammoth Lakes, CA",165 Old Mammoth Rd,Mammoth Lakes,CA,93546,USA,8,150,"37.644544, -118.965875",2390
+"Ukiah, CA",310 S State St,Ukiah,CA,95482,USA,8,150,"39.1481, -123.208604",193
+"Fresno, CA",6709 North Riverside Dr,Fresno,CA,93704,USA,10,150,"36.835455, -119.91058",91
+"Temecula, CA",40820 Winchester Rd,Temecula,CA,92591,USA,10,150,"33.52421, -117.152568",324
+"Red Bluff - S Main St, CA",725 S Main St,Red Bluff,CA,96080,USA,12,250,"40.163072, -122.228937",88
+"Santa Barbara, CA",3943 State St,Santa Barbara,CA,93105,USA,16,250,"34.440227, -119.753359",61
+"Folsom - Palladio Pkwy, CA",220 Palladio Pkwy,Folsom,CA,95630,USA,30,250,"38.647199, -121.118344",116
+"Goleta, CA",7004 Market Pl Dr,Goleta,CA,93117,USA,12,250,"34.428885, -119.87338",11
+"Marina Del Rey, CA",13534 Bali Way,Marina Del Rey,CA,90292,USA,8,250,"33.980394, -118.445237",4
+"Bishop - Rocking West Dr, CA",1331 Rocking W Dr,Bishop,CA,93514,USA,24,250,"37.377287, -118.4226",1263
+"Gustine, CA",12411 California Highway 33,Gustine,CA,95322,USA,12,150,"37.109305, -121.017565",47
+"Bakersfield, CA",29541 Stockdale Hwy,Bakersfield,CA,93314,USA,10,150,"35.354643, -119.331607",93
+"Twentynine Palms, CA",73829 Baseline Rd,Twentynine Palms,CA,92277,USA,8,150,"34.12046, -116.050953",631
+"Groveland, CA",11875 Ponderosa Ln,Groveland,CA,95321,USA,7,150,"37.838679, -120.23199",865
+"Fish Camp, CA",1122 California 41,Fish Camp,CA,93623,USA,8,150,"37.473828, -119.635893",1557
+"Paso Robles - Golden Hill Rd, CA",2449 Golden Hill Rd,Paso Robles,CA,93446,USA,28,250,"35.645482, -120.660047",243
+"San Jose - East Capitol Expressway, CA",3096 Tuers Rd,San Jose,CA,95121,USA,20,250,"37.300551, -121.825198",48
+"Vacaville, CA",321 Nut Tree RD,Vacaville,CA,95687,USA,16,150,"38.366645, -121.958136",34
+"Sacramento, CA",3668 North Freeway Blvd,Sacramento,CA,95834,USA,10,150,"38.637729, -121.49718",4
+"Salinas, CA",1606 North Main St,Salinas,CA,93906,USA,14,150,"36.715699, -121.653992",29
+"Monterey, CA",1100 Del Monte Center,Monterey,CA,93940,USA,14,250,"36.585729, -121.898765",67
+"Baker, CA",71808 Baker Blvd,Baker,CA,97035,USA,40,150,"35.262495, -116.08079",283
+"Westminster, CA",1025 Westminster Mall,Westminster,CA,92683,USA,24,72,"33.745288, -118.012279",8
+"Concord, CA",2001 Diamond Blvd,Concord,CA,94520,USA,19,150,"37.970453, -122.058384",10
+"Santa Clarita, CA",23975 Newhall Ranch Rd,Santa Clarita,CA,91355,USA,32,250,"34.431041, -118.554319",344
+"Cottonwood, CA",20635 Gas Point Rd,Cottonwood,CA,96022,USA,12,250,"40.389145, -122.288208",135
+"Fairfield - Travis Blvd, CA",1350 Travis Blvd,Fairfield,CA,94533,USA,12,150,"38.26175, -122.0524",10
+"Riverside, CA",3878 Market St,Riverside,CA,92501,USA,24,72,"33.981393, -117.37577",258
+"Fremont, CA",45500 Fremont Blvd,Fremont,CA,94538,USA,12,250,"37.492754, -121.944796",7
+"Sunnyvale - W McKinley Ave, CA",298 W McKinley Ave,Sunnyvale,CA,94086,USA,10,120,"37.373421, -122.033114",10
+"Truckee - Soaring Way, CA",10001 Soaring Way,Truckee,CA,96161,USA,16,250,"39.319501, -120.155831",1804
+"Gilroy, CA",681 Leavesley Rd,Gilroy,CA,95020,USA,16,150,"37.02493, -121.56542",63
+"Cabazon, CA",48400 Seminole Dr,Cabazon,CA,92230,USA,16,150,"33.93129, -116.820041",620
+"Redding, CA",880 Sundial Bridge Dr,Redding,CA,96001,USA,8,250,"40.590042, -122.378506",149
+"Kettleman City, CA",33360 Powers Dr,Kettleman City,CA,93239,USA,40,250,"35.987651, -119.962336",100
+"Anaheim, CA",8148 E Santa Ana Canyon Rd,Anaheim,CA,92808,USA,20,72,"33.866724, -117.747373",135
+"Yermo, CA",36017 Calico Rd,Yermo,CA,92398,USA,22,150,"34.907217, -116.835801",590
+"Burbank - North Third St, CA","501 N 3rd St, Top Parking Level",Burbank,CA,91502,USA,20,150,"34.18487, -118.311672",190
+"Harris Ranch, CA",24505 W Dorris Ave,Coalinga,CA,93210,USA,18,150,"36.25415, -120.237896",139
+"Yuba City, CA",1475 Tharp Rd,Yuba City,CA,95993,USA,10,150,"39.147833, -121.647861",17
+"San Diego - Camino Del Sur, CA",17170 Camino Del Sur,San Diego,CA,92127,USA,16,72,"33.020052, -117.126278",164
+"Sacramento - Arden Way, CA",1689 Arden Way,Sacramento,CA,95815,USA,19,72,"38.603327, -121.42853",10
+"San Mateo - 2940 S Norfolk St, CA",2940 S Norfolk St,San Mateo,CA,94403,USA,12,250,"37.543787, -122.285551",2
+"San Ramon - Diablo Plaza, CA",2415 San Ramon Valley Blvd,San Ramon,CA,94583,USA,20,72,"37.774766, -121.979789",153
+"Menifee, CA",30340 Haun Rd,Menifee,CA,92584,USA,20,150,"33.679646, -117.174095",435
+"Windsor, CA",8852 Lakewood Dr,Windsor,CA,95492,USA,12,250,"38.549856, -122.805465",39
+"Lake Elsinore, CA",17600 Collier Ave,Lake Elsinore,CA,92530,USA,21,150,"33.698437, -117.349113",388
+"Napa, CA",Devlin Rd & Airport Blvd,Napa,CA,94558,USA,12,150,"38.2356, -122.264",15
+"San Luis Obispo, CA","Madonna Inn, 100 Madonna Rd",San Luis Obispo,CA,93405,USA,18,250,"35.265182, -120.676288",47
+"San Jose - Blossom Hill Rd, CA",1375 Blossom Hill Rd,San Jose,CA,95118,USA,18,72,"37.244638, -121.891141",68
+"Rancho Cucamonga, CA",12505 North Main St,Rancho Cucamonga,CA,91739,USA,12,150,"34.113592, -117.529406",381
+"Crescent City, CA",1000 Front St,Crescent City,CA,95531,USA,6,150,"41.752393, -124.1944",4
+"San Jose - Santana Row, CA",330 Winchester Blvd,San Jose,CA,95128,USA,26,72,"37.322234, -121.949226",41
+"Thousand Oaks - East Thousand Oaks Blvd, CA",180 Promenade Way,Thousand Oaks,CA,91362,USA,24,150,"34.158291, -118.82363",289
+"Irvine - Michelson Dr, CA",3021 Michelson Dr,Irvine,CA,92612,USA,12,72,"33.673394, -117.844666",8
+"Manhattan Beach, CA",3200 N Sepulveda Blvd,Manhattan Beach,CA,90266,USA,24,72,"33.901472, -118.393833",37
+"Morgan Hill, CA",1061 Cochrane Rd,Morgan Hill,CA,95037,USA,14,72,"37.156827, -121.653693",117
+"Los Angeles - W Olympic Blvd, CA",11355 W Olympic Blvd,Los Angeles,CA,90064,USA,16,250,"34.03818, -118.443301",58
+"Watsonville, CA",1415 Main St,Watsonville,CA,95076,USA,18,72,"36.916349, -121.773512",15
+"Carlsbad, CA",7710 El Camino Real,Carlsbad,CA,92009,USA,26,72,"33.084189, -117.266384",25
+"Los Gatos, CA",192 Saratoga Los Gatos Rd,Los Gatos,CA,95030,USA,20,72,"37.229926, -121.979384",116
+"Downey - Lakewood Blvd, CA",9588 Lakewood Blvd,Downey,CA,90240,USA,12,72,"33.953335, -118.112914",42
+"Pasadena, CA",155 E Green St,Pasadena,CA,91105,USA,24,72,"34.144835, -118.146609",258
+"Rohnert Park, CA",475 Rohnert Park Expy W,Rohnert Park,CA,94928,USA,12,150,"38.3475, -122.720944",30
+"Corona, CA",2615 Tuscany St,Corona,CA,92881,USA,20,72,"33.826338, -117.515411",258
+"Fontana, CA",15234 Summit Ave,Fontana,CA,92336,USA,24,72,"34.151177, -117.471412",480
+"Milpitas, CA",901 East Calaveras Blvd,Milpitas,CA,95035,USA,16,150,"37.434536, -121.891387",10
+"Los Angeles - Francisco St, CA",899 South Francisco St,Los Angeles,CA,90015,USA,10,72,"34.047424, -118.264589",77
+"Ojai, CA",987 W Ojai Ave,Ojai,CA,93023,USA,12,72,"34.441994, -119.258898",236
+"Pleasanton - Johnson Dr, CA",6000 Johnson Dr,Pleasanton,CA,94588,USA,10,72,"37.700508, -121.908364",100
+"El Cerrito, CA",180 El Cerrito Plz,El Cerrito,CA,94530,USA,14,72,"37.898575, -122.30073",10
+"Novato, CA",208 Vintage Way,Novato,CA,94945,USA,20,150,"38.089447, -122.551755",3
+"San Francisco - Letterman Drive, CA",Truby St,San Francisco,CA,94129,USA,6,72,"37.798513, -122.449846",19
+"Glendale, CA","877 Americana Way, Parking level 7",Glendale,CA,91210,USA,20,72,"34.145099, -118.256433",161
+"San Ramon, CA",2610 Bishop Dr,San Ramon,CA,94583,USA,16,150,"37.76292, -121.963662",140
+"Santa Rosa, CA",380 Coddingtown Way,Santa Rosa,CA,95401,USA,20,250,"38.459554, -122.73023",45
+"Petaluma, CA",401 Kenilworth Dr #1030,Petaluma,CA,94952,USA,20,150,"38.242693, -122.625049",8
+"San Carlos, CA",1127 Industrial Rd,San Carlos,CA,94070,USA,19,72,"37.502912, -122.245569",3
+"Milpitas - Great Mall, CA",1234 Great Mall Dr,Milpitas,CA,95035,USA,20,72,"37.413353, -121.897995",11
+"Livermore, CA",2774 Livermore Outlets Dr,Livermore,CA,94551,USA,20,72,"37.700349, -121.841063",110
+"Fairfield - Holiday Lane, CA",1350 Holiday Ln,Fairfield,CA,94534,USA,12,150,"38.256667, -122.065139",12
+"Santa Monica - Santa Monica Place, CA",395 Santa Monica Place,Santa Monica,CA,90401,USA,14,72,"34.013087, -118.493843",20
+"Laytonville, CA",45020 North Highway 101,Laytonville,CA,95454,USA,8,150,"39.689269, -123.483443",502
+"La Mesa, CA",8765 Fletcher Pkwy,La Mesa,CA,91942,USA,12,250,"32.7808724, -117.0135593",158
+"Tejon Ranch, CA",5602 Dennis McCarthy Dr,Lebec,CA,93243,USA,24,150,"34.98734, -118.94623",337
+"Palo Alto - Stanford Shopping Center, CA",660 Stanford Shopping Center,Palo Alto,CA,94304,USA,20,72,"37.441722, -122.170271",22
+"Hayward, CA",19661 Hesperian Blvd,Hayward,CA,94541,USA,16,72,"37.667227, -122.120338",12
+"Manteca - Perimeter Dr, CA",960 Perimeter Dr,Manteca,CA,95337,USA,20,150,"37.782622, -121.228683",9
+"Napa - Factory Stores Drive, CA",629 Factory Stores Dr,Napa,CA,94558,USA,20,150,"38.297635, -122.302617",15
+"Corte Madera, CA",1618 Redwood Hwy,Corte Madera,CA,94925,USA,10,72,"37.928278, -122.514823",3
+"Ukiah - N State St, CA",1315 N State St,Ukiah,CA,95482,USA,12,250,"39.168351, -123.210046",191
+"Big Sur - Ventana, CA",48123 Highway 1,Big Sur,CA,93920,USA,8,72,"36.226876, -121.761506",324
+"Antioch, CA",5769 Lone Tree Way,Antioch,CA,94531,USA,10,150,"37.963695, -121.737262",34
+"Rancho Mirage, CA",71800 CA-111,Rancho Mirage,CA,92270,USA,24,72,"33.741311, -116.409258",70
+"San Jose - Coleman Ave, CA",533 Coleman Ave,San Jose,CA,95110,USA,12,150,"37.339661, -121.905085",24
+"Chico, CA",1951 E 20th St,Chico,CA,95928,USA,18,150,"39.726633, -121.802538",70
+"Palm Springs, CA",N Museum Dr at N Belardo Rd,Palm Springs,CA,92262,USA,24,250,"33.824931, -116.548824",143
+"Alameda, CA",523 South Shore Center,Alameda,CA,94501,USA,12,150,"37.756265, -122.249306",3
+"Marin City - Donahue St, CA",190 Donahue St,Sausalito,CA,94965,USA,16,72,"37.872835, -122.510499",3
+"Placerville - Broadway, CA",1184 Broadway,Placerville,CA,95667,USA,12,150,"38.730606, -120.788085",578
+"San Diego - A Street, CA",1350 6th Ave,San Diego,CA,92101,USA,16,72,"32.719384, -117.159567",28
+"Los Altos, CA",4800 El Camino Real,Los Altos,CA,94022,USA,16,72,"37.398894, -122.110682",24
+"Mission Viejo, CA",555 Shops Blvd,Mission Viejo,CA,92691,USA,10,72,"33.557279, -117.668035",120
+"Walnut Creek - Plaza Escuela, CA",1181 Locust St,Walnut Creek,CA,94596,USA,24,72,"37.895277, -122.061828",50
+"Elk Grove - Elk Grove Blvd, CA",8451 Elk Grove Blvd,Elk Grove,CA,95758,USA,16,250,"38.409389, -121.391028",11
+"San Diego - Friars Rd, CA",7007 Friars Rd,San Diego,CA,92108,USA,48,250,"32.769144, -117.166271",11
+"Manteca - Spreckels Ave, CA",280 Spreckels Ave,Manteca,CA,95366,USA,12,250,"37.795975, -121.19771",13
+"Lincoln - Groveland Lane, CA",950 Groveland Ln,Lincoln,CA,95648,USA,8,250,"38.869969, -121.303187",44
+"Sacramento - Freeport Blvd, CA",4700 Freeport Blvd,Sacramento,CA,95822,USA,8,250,"38.533691, -121.4961",6
+"Mojave - Sierra Hwy, CA",16246 Sierra Hwy,Mojave,CA,93501,USA,12,250,"35.056876, -118.174706",845
+"Riverside - Canyon Springs Pkwy, CA",2755 Canyon Springs Pkwy,Riverside,CA,92507,USA,16,250,"33.939957, -117.282508",486
+"Anaheim - E Katella Ave, CA",2404 E Katella Ave,Anaheim,CA,92806,USA,16,250,"33.805168, -117.882173",49
+"Madera - Ave 7, CA",32685 Ave 7,Madera,CA,93637,USA,16,250,"36.851569, -119.950611",87
+"Bakersfield - S Enos Ln, CA",9741 S Enos Ln,Bakersfield,CA,93311,USA,12,250,"35.266688, -119.253836",93
+"San Bernardino, CA",400 Inland Center Dr,San Bernardino,CA,92408,USA,14,72,"34.08407, -117.299314",304
+"San Jose - Cherry Avenue, CA",5160 Cherry Ave,San Jose,CA,95118,USA,24,72,"37.258506, -121.871476",56
+"Thousand Oaks - West Hillcrest Drive, CA",350 West Hillcrest Dr,Thousand Oaks,CA,91360,USA,20,72,"34.18445, -118.890747",202
+"Tahoe City, CA",140 N. Lake Blvd,Tahoe City,CA,96145,USA,6,150,"39.167793, -120.14453",1901
+"Cerritos - Los Cerritos Center, CA",239 Los Cerritos Center,Cerritos,CA,90703,USA,20,72,"33.8643904, -118.0915723",17
+"South San Francisco, CA",250 Gateway Blvd,South San Francisco,CA,94080,USA,20,72,"37.655243, -122.401321",7
+"Hawthorne - El Segundo Blvd, CA",4427 W El Segundo Blvd,Hawthorne,CA,90250,USA,12,72,"33.918036, -118.353197",22
+"Palmdale, CA",1233 Rancho Vista Blvd,Palmdale,CA,93551,USA,20,250,"34.606207, -118.151386",815
+"Roseville - Galleria Boulevard, CA",1112 Galleria Blvd,Roseville,CA,95678,USA,20,150,"38.767949, -121.263356",69
+"Red Bluff, CA",94 Belle Mill Rd,Red Bluff,CA,96080,USA,8,250,"40.182152, -122.227452",82
+"Pismo Beach, CA",333 Five Cities Dr,Pismo Beach,CA,93449,USA,12,250,"35.136408, -120.628662",12
+"Hermosa Beach, CA",710 16th St,Hermosa Beach,CA,90254,USA,20,250,"33.864955, -118.394819",25
+"Beaumont, CA",1551 E 2nd St,Beaumont,CA,92223,USA,20,250,"33.922543, -116.949167",779
+"Santa Clara, CA",3945 Rivermark Plaza,Santa Clara,CA,95054,USA,16,72,"37.394816, -121.945157",6
+"Santa Cruz, CA",911 Soquel Ave,Santa Cruz,CA,95062,USA,16,250,"36.978635, -122.013968",23
+"San Francisco – Van Ness Ave, CA",601 Van Ness Ave,San Francisco,CA,94102,USA,12,72,"37.781296, -122.421394",26
+"Modesto - Sisk Rd, CA",3900 Sisk Rd,Modesto,CA,95356,USA,12,250,"37.694343, -121.064215",22
+"Napa - Bel Aire Plaza, CA",4000 Bel Aire Plaza,Napa,CA,94558,USA,12,250,"38.321869, -122.307381",22
+"Greenbrae, CA","Bon Air Center, Sir Francis Drake Blvd",Greenbrae,CA,94904,USA,14,72,"37.944776, -122.522706",4
+"Traver, CA",36005 CA-99,Traver,CA,93673,USA,16,250,"36.44881, -119.486404",87
+"Menlo Park, CA",325 Sharon Park Dr,Menlo Park,CA,94025,USA,18,72,"37.423372, -122.198189",59
+"Torrance, CA",3490 Fashion Way,Torrance,CA,90503,USA,20,250,"33.834811, -118.349039",26
+"Chula Vista, CA",910 Eastlake Pkwy,Chula Vista,CA,91915,USA,16,250,"32.649168, -116.9676",168
+"Moreno Valley, CA",22330 Cactus Ave,Moreno Valley,CA,92553,USA,12,250,"33.9105668, -117.2733601",474
+"Malibu - Whole Foods and the Park, CA",23401 Civic Center Way,Malibu,CA,90265,USA,5,72,"34.037043, -118.685809",5
+"Malibu, CA",3862 Cross Creek Rd,Malibu,CA,90265,USA,8,250,"34.036024, -118.684095",4
+"Greenfield, CA",560 Walnut Ave,Greenfield,CA,93927,USA,12,250,"36.32925, -121.245444",86
+"San Mateo - Hillsdale Boulevard, CA",1308 W Hillsdale Blvd,San Mateo,CA,94403,USA,12,250,"37.533306, -122.327472",108
+"Sand City, CA",2040 California Ave,Sand City,CA,93955,USA,12,250,"36.621976, -121.844208",16
+"Olema, CA",10005 Coastal Hwy 1,Olema,CA,94950,USA,6,150,"38.040224, -122.788345",18
+"Mt. Shasta - 134 Morgan Way, CA",134 Morgan Way,Mt. Shasta,CA,96067,USA,16,150,"41.310348, -122.316039",1070
+"Cupertino - Stevens Creek Blvd, CA",20745 Stevens Creek Blvd,Cupertino,CA,95014,USA,28,250,"37.324722, -122.03684",76
+"San Clemente - Av. Vista Hermosa, CA",990 Avenida Vista Hermosa,San Clemente,CA,92673,USA,16,250,"33.463091, -117.60783",124
+"Williams - 6th St, CA",464 6th St,Williams,CA,95987,USA,12,250,"39.15608, -122.149408",25
+"Placerville, CA",3968 Missouri Flat Rd,Placerville,CA,95667,USA,8,250,"38.709815, -120.842293",528
+"Patterson - Speno Dr, CA",2959 Speno Dr,Patterson,CA,95363,USA,8,250,"37.466496, -121.174403",60
+"San Diego - Balboa Ave, CA",5617 Balboa Ave,San Diego,CA,92111,USA,16,250,"32.818922, -117.179792",112
+"San Francisco - 16th St, CA",2300 16th St,San Francisco,CA,94103,USA,12,72,"37.766033, -122.408981",20
+"Loomis, CA",6119 Horseshoe Bar Rd,Loomis,CA,95650,USA,8,250,"38.817444, -121.189472",115
+"Dublin - Dublin Blvd, CA",2800 Dublin Blvd,Dublin,CA,94568,USA,10,150,"37.703993, -121.852249",109
+"Simi Valley - Tierra Rejada Rd, CA",51 Tierra Rejada Rd,Simi Valley,CA,93065,USA,16,250,"34.272167, -118.797139",220
+"San Fernando - Celis St, CA",1011 Pico St,San Fernando,CA,91340,USA,12,250,"34.281483, -118.44167",323
+"Pasadena - E Glenarm St, CA",Cnr Glenarm St and Arroyo Pkwy,Pasadena,CA,91106,USA,20,250,"34.12699, -118.147727",230
+"Bell - 4416 Gage Ave, CA",4416 Gage Ave,Bell,CA,90201,USA,8,250,"33.977915, -118.188681",44
+"San Diego - Camino De La Plaza, CA",4211 Camino De La Plaza,San Ysidro,CA,92173,USA,8,250,"32.54462, -117.042305",16
+"Clovis, CA",870 Herndon Ave,Clovis,CA,93612,USA,12,250,"36.836939, -119.6982",112
+"Vacaville - Harbison Dr, CA",2098 Harbison Dr,Vacaville,CA,95687,USA,12,250,"38.362178, -121.963212",38
+"Concord - Diamond Blvd, CA",1975 Diamond Blvd,Concord,CA,94520,USA,16,250,"37.969947, -122.058491",11
+"San Ramon - San Ramon Valley Blvd, CA",21001 San Ramon Valley Blvd,San Ramon,CA,94583,USA,16,250,"37.723081, -121.944252",135
+"Yreka, CA",1808 Fort Jones Rd,Yreka,CA,96097,USA,12,250,"41.701506, -122.645108",833
+"Fort Bragg, CA",101 Boatyard Dr,Fort Bragg,CA,95437,USA,12,250,"39.421063, -123.807299",32
+"Inyokern - Locust Ave, CA",6525 Inyokern Rd,Inyokern,CA,93527,USA,12,250,"35.646509, -117.81326",744
+"Jackson, CA",31 CA-88,Jackson,CA,95642,USA,8,250,"38.347998, -120.7766",374
+"Stockton, CA",2323 Grand Canal Blvd,Stockton,CA,95207,USA,12,250,"37.984978, -121.335924",3
+"Firebaugh, CA",46272 W Panoche Rd,Firebaugh,CA,93622,USA,56,250,"36.639287, -120.625451",146
+"Bishop, CA",151 S Warren St,Bishop,CA,93514,USA,12,250,"37.360397, -118.396963",1263
+"Rowland Heights, CA",17247 Colima Rd,Rowland Heights,CA,91748,USA,8,72,"33.991811, -117.92803",135
+"San Jose - Holger Way, CA",95 Holger Wy,San Jose,CA,95134,USA,14,72,"37.417281, -121.956897",3
+"Hesperia, CA",12795 Main St,Hesperia,CA,92345,USA,20,250,"34.424864, -117.385861",1077
+"Emeryville - Christie Ave, CA",5795 Christie Ave,Emeryville,CA,94608,USA,12,250,"37.837506, -122.295407",4
+"Santa Ana - E 5th St, CA",300 E 5th St,Santa Ana,CA,92701,USA,20,72,"33.748796, -117.866115",37
+"Woodland, CA",2185 Bronze Star Dr,Woodland,CA,95776,USA,8,250,"38.671368, -121.723893",11
+"Sunnyvale - S Bernardo Ave, CA",639 S Bernardo Ave,Sunnyvale,CA,94087,USA,16,250,"37.372668, -122.057332",45
+"Sacramento - J St, CA",500 David J Stern Walk,Sacramento,CA,95814,USA,20,250,"38.580186, -121.499476",9
+"Fremont - Pacific Commons, CA",43950 Pacific Commons Blvd,Fremont,CA,94538,USA,16,250,"37.502482, -121.968927",6
+"Roseville - Douglas Blvd, CA",1925 Douglas Blvd,Roseville,CA,95661,USA,16,250,"38.745316, -121.253384",61
+"Emeryville - Shellmound St, CA",5901 Shellmound St,Emeryville,CA,94608,USA,12,250,"37.840449, -122.293936",3
+"Davis, CA",2151 Cowell Blvd,Davis,CA,95618,USA,16,250,"38.542553, -121.725827",13
+"Gilroy - Camino Arroyo, CA",6705 Camino Arroyo,Gilroy,CA,95020,USA,12,250,"37.000817, -121.554338",57
+"Oakland - 2nd St, CA",255 2nd St,Oakland,CA,94607,USA,12,72,"37.794153, -122.272578",4
+"San Luis Obispo - Los Osos Valley Rd, CA",11990 Los Osos Valley Rd,San Luis Obispo,CA,93405,USA,16,250,"35.253753, -120.684317",38
+"Eastvale - Limonite Ave, CA",12571 Limonite Ave,Eastvale,CA,91752,USA,16,250,"33.976911, -117.55442",203
+"Santa Ysabel, CA",30270 CA-78,Santa Ysabel,CA,92070,USA,8,250,"33.109253, -116.674419",910
+"Fountain Valley - Warner Ave, CA",9380 Warner Ave,Fountain Valley,CA,92708,USA,12,250,"33.715666, -117.964945",9
+"Montecito, CA",1595 S Jameson Ln,Santa Barbara,CA,93108,USA,8,72,"34.421527, -119.631377",3
+"Merced - Martin Luther King Junior Way, CA",1425 Martin Luther King Jr Way,Merced,CA,95340,USA,12,250,"37.297988, -120.483354",52
+"Glendale - Harvey Dr, CA",310 Harvey Dr,Glendale,CA,91206,USA,16,250,"34.148107, -118.227151",208
+"San Diego - Clairemont Mesa Blvd, CA",7373 Clairemont Mesa Blvd,San Diego,CA,92111,USA,12,250,"32.831963, -117.159547",32
+"San Bruno - San Bruno Ave, CA",2801 San Bruno Ave W,San Bruno,CA,94066,USA,12,250,"37.618905, -122.440524",144
+"Redlands - W Stuart Ave, CA",275 W Stuart Ave,Redlands,CA,92373,USA,20,250,"34.059384, -117.185405",408
+"San Francisco - Geary Blvd, CA",2675 Geary Blvd,San Francisco,CA,94118,USA,34,250,"37.781806, -122.446146",94
+"Copperopolis, CA",100 Town Square Rd,Copperopolis,CA,95228,USA,12,250,"37.972864, -120.653276",278
+"Granada Hills, CA",10823 Zelzah Ave,Granada Hills,CA,91344,USA,20,250,"34.266234, -118.526633",316
+"Seaside, CA",1901 Del Monte Blvd,Seaside,CA,93955,USA,6,150,"36.616759, -121.844014",10
+"San Jose - 925 Blossom Hill Rd, CA",925 Blossom Hill Rd,San Jose,CA,95123,USA,24,250,"37.250854, -121.860731",55
+"San Juan Capistrano, CA",31971 Camino Capistrano,San Juan Capistrano,CA,92675,USA,7,125,"33.498458, -117.6632",30
+"Truckee - Brockway Rd, CA",The Rock 11209 Brockway Rd,Truckee,CA,96161,USA,8,150,"39.321865, -120.1621",1801
+"Lone Pine, CA",701 S Main St,Lone Pine,CA,93545,USA,16,250,"36.60059, -118.061916",1137
+"Cameron Park, CA",3501 Robin Lane,Cameron Park,CA,95682,USA,12,250,"38.655825, -120.965651",405
+"Eureka, CA","Bayshore Mall, 3300 Broadway St",Eureka,CA,95501,USA,8,150,"40.778885, -124.188383",6
+"Culver City, CA",6000 Hannum Ave,Culver City,CA,90230,USA,16,150,"33.986779, -118.390213",13
+"Elk Grove - 7119 Elk Grove Blvd, CA",7119 Elk Grove Blvd,Elk Grove,CA,95758,USA,12,250,"38.4099, -121.4181",10
+"Dublin - Amador Plaza, CA",6701 Amador Plaza Rd,Dublin,CA,94568,USA,16,150,"37.703183, -121.925327",103
+"San Diego - Mira Mesa Blvd, CA",8251 Mira Mesa Blvd,San Diego,CA,92126,USA,16,250,"32.911707, -117.145653",130
+"Playa Vista - W Jefferson Blvd, CA",12746 W Jefferson Blvd,Playa Vista,CA,90094,USA,14,72,"33.977104, -118.417167",11
+"Hollister, CA","Casa de Fruta, 10021 Pacheco Pass Hwy",Hollister,CA,95023,USA,20,150,"36.989869, -121.380535",83
+"San Diego, CA",10105 Pacific Heights Blvd,San Diego,CA,92121,USA,12,150,"32.902137, -117.193489",88
+"San Jose - Santana Row (Valet), CA",330 Winchester Blvd,San Jose,CA,95128,USA,10,72,"37.321459, -121.948969",41
+"Tustin, CA",15000-15190 Kensington Park Dr,Tustin,CA,92782,USA,8,250,"33.7123, -117.8163",15
+"Fresno - North Riverside Drive, CA",5001 N Riverside Dr,Fresno,CA,93722,USA,12,250,"36.832164, -119.908341",91
+"Irvine - Culver Drive, CA",14346 Culver Dr,Irvine,CA,92604,USA,16,250,"33.706784, -117.785164",29
+"Pomona, CA",90 Rio Rancho Rd,Pomona,CA,91766,USA,16,250,"34.027034, -117.762195",246
+"Fremont - 39201 Fremont Blvd, CA",39201 Fremont Blvd,Fremont,CA,94538,USA,12,150,"37.544506, -121.983822",16
+"Chino Hills, CA",13920 City Center Dr,Chino Hills,CA,91709,USA,16,250,"34.002163, -117.731326",217
+"Vallejo - Solano Ave, CA",2001-2155 Solano Ave,Vallejo,CA,94590,USA,20,250,"38.104444, -122.230234",11
+"Daly City, CA",1 Serramonte Center,Daly City,CA,94015,USA,40,72,"37.673998, -122.472257",89
+"Irvine - Walnut Ave, CA",5406 Walnut Ave,Irvine,CA,92604,USA,8,250,"33.689853, -117.768924",47
+"Downey - Stonewood St, CA",251 Stonewood St,Downey,CA,90241,USA,12,72,"33.934643, -118.12117",35
+"East Palo Alto, CA",1775 E Bayshore Rd,East Palo Alto,CA,94303,USA,20,72,"37.459659, -122.137651",6
+"Brentwood, CA",2455 Sand Creek Rd,Brentwood,CA,94513,USA,16,250,"37.9466789, -121.7409128",41
+"Cabazon - Morongo Trail, CA",49020 Seminole Dr,Cabazon,CA,92230,USA,12,250,"33.923726, -116.803246",608
+"Fremont - Civic Center Dr, CA",39410 Civic Center Dr,Fremont,CA,94538,USA,8,250,"37.554989, -121.974239",20
+"Tracy - West Grant Line Rd, CA",2850 W Grant Line Rd,Tracy,CA,95304,USA,12,250,"37.753054, -121.467549",7
+"West Hollywood, CA",8775 Sunset Blvd,West Hollywood,CA,90069,USA,8,250,"34.091635, -118.382241",109
+"Arroyo Grande - W Branch Rd, CA",1160 W Branch St,Arroyo Grande,CA,93420,USA,8,250,"35.126833, -120.595972",56
+"Santa Maria, CA",371 Town Center E,Santa Maria,CA,93454,USA,20,250,"34.952928, -120.434555",67
+"Sherman Oaks - Ventura Blvd, CA",15301 Ventura Blvd,Sherman Oaks,CA,91403,USA,40,250,"34.156902, -118.467539",212
+"Oakhurst, CA",Comfort Inn 40489 CA-41,Oakhurst,CA,93644,USA,8,250,"37.333611, -119.645191",723
+"Lost Hills, CA",I-5 CA-46,Lost Hills,CA,93249,USA,20,250,"35.616874, -119.656098",75
+"Pasadena - 3363 E Foothill Blvd, CA",3363 East Foothill Blvd,Pasadena,CA,91107,USA,20,250,"34.153571, -118.081718",224
+"City of Industry - Colima Rd, CA",17501 Colima Rd,City of Industry,CA,91748,USA,12,250,"33.990779, -117.925266",138
+"Fresno - North Blackstone Ave, CA",7965 N Blackstone Ave,Fresno,CA,93720,USA,8,250,"36.850405, -119.791265",108
+"Ontario - Vineyard Ave, CA",2440 S Vineyard Ave,Ontario,CA,91761,USA,24,250,"34.029757, -117.612147",251
+"Pacific Palisades, CA",1038 N Swarthmore Ave,Pacific Palisades,CA,90272,USA,8,250,"34.047878, -118.524987",100
+"San Gabriel, CA",140 W Valley Blvd,San Gabriel,CA,91776,USA,20,250,"34.077694, -118.100109",102
+"San Marcos, CA",573 Grand Ave,San Marcos,CA,92078,USA,20,250,"33.13658, -117.176119",170
+"Burlingame, CA",150 Anza Blvd,Burlingame,CA,94010,USA,20,250,"37.591194, -122.348705",4
+"Diamond Bar, CA",2785 S Diamond Bar Blvd,Diamond Bar,CA,91765,USA,24,250,"33.97577, -117.838484",219
+"Auburn, CA",13431 Bowman Rd,Auburn,CA,95603,USA,12,250,"38.926253, -121.058008",482
+"San Bruno - El Camino Real, CA",1150 El Camino Real,San Bruno,CA,94066,USA,28,250,"37.636105, -122.420515",18
+"Alturas, CA",1200 W 12th St,Alturas,CA,96101,USA,8,250,"41.495424, -120.55978",1335
+"Sonoma, CA",276 E Napa St,Sonoma,CA,95476,USA,8,250,"38.29179, -122.452126",29
+"Commerce, CA",100 Citadel Dr,Commerce,CA,90040,USA,20,250,"34.006382, -118.148878",48
+"Pasadena - Shoppers Ln, CA",410 Shoppers Ln,Pasadena,CA,91106,USA,12,250,"34.139, -118.1312",236
+"San Diego - Truxtun Rd, CA",Truxtun Rd,San Diego,CA,92106,USA,12,250,"32.737743, -117.217061",6
+"Soledad - H Dela Rosa St, CA",3070 H Dela Rosa Sr St,Soledad,CA,93960,USA,7,250,"36.4162019, -121.320846",61
+"Turlock, CA",1684 Countryside Dr,Turlock,CA,95380,USA,16,250,"37.508786, -120.876109",31
+"Temecula - Temecula Pkwy, CA",30515 Temecula Pkwy,Temecula,CA,92592,USA,8,250,"33.475122, -117.129563",308
+"City of Industry - Gale Ave, CA",18558 Gale Ave,City of Industry,CA,91748,USA,20,250,"33.994605, -117.899677",135
+"Susanville, CA",900 Skyline Rd,Susanville,CA,96130,USA,8,250,"40.430902, -120.657897",1306
+"San Leandro, CA",1201 Marina Blvd,San Leandro,CA,94577,USA,12,250,"37.709813, -122.164607",10
+"Kettleman City - Bernard Dr, CA",Bernard Dr,Kettleman City,CA,93239,USA,55,250,"35.9861622, -119.957565",104
+"Chowchilla, CA",1225 East Robertson Blvd,Chowchilla,CA,93610,USA,12,250,"37.126287, -120.247428",75
+"San Diego - Carmel Mountain Rd, CA",4639 Carmel Mountain Rd,San Diego,CA,92130,USA,24,250,"32.920824, -117.21491",94
+"San Diego - Mission Center Rd, CA",5694 Mission Center Rd,San Diego,CA,92108,USA,10,250,"32.776392, -117.155136",21
+"Mt. Shasta - 111 Morgan Way, CA",111 Morgan Way,Mt. Shasta,CA,96067,USA,4,125,"41.310233, -122.317278",1066
+"Brea, CA",250 Brea Mall,Brea,CA,92821,USA,20,250,"33.914491, -117.883662",102
+"Buena Park - Beach Blvd, CA",6911 Brenner Ave,Buena Park,CA,90621,USA,24,72,"33.86044, -117.996347",23
+"Carlsbad - Paseo Del Norte, CA",5620 Paseo Del Norte,Carlsbad,CA,92008,USA,16,250,"33.124351, -117.31912",23
+"Santa Barbara - Anacapa St, CA",621 Anacapa Street,Santa Barbara,CA,93101,USA,12,250,"34.418965, -119.697083",9
+"Los Angeles - Alameda St, CA",777 Alameda St,Los Angeles,CA,90021,USA,16,72,"34.033502, -118.240852",74
+"Union City, CA",34536 Alvarado Niles Rd,Union City,CA,94587,USA,12,250,"37.587128, -122.020442",13
+"Rancho Cucamonga - Foothill Blvd, CA",12750 Foothill Blvd,Rancho Cucamonga,CA,91739,USA,8,250,"34.106627, -117.527064",368
+"Culver City - 11924 Washington Blvd, CA",11924 Washington Blvd,Los Angeles,CA,90066,USA,8,250,"33.997487, -118.421155",17
+"Marina, CA",145 General Stillwell Dr,Marina,CA,93933,USA,12,250,"36.666436, -121.810168",24
+"Yorba Linda, CA",18601 Yorba Linda Blvd,Yorba Linda,CA,92886,USA,8,250,"33.889175, -117.808082",121
+"San Diego - Scripps Poway Pkwy, CA","10555 Scripps Poway Pkwy, CA",San Diego,CA,92131,USA,12,250,"32.9362, -117.098848",187
+"Culver City - Washington Blvd, CA",8850 Washington Blvd,Culver City,CA,90232,USA,8,250,"34.027046, -118.388416",33
+"Lake Arrowhead, CA",28200 State Hwy 189,Lake Arrowhead,CA,92532,USA,8,250,"34.250676, -117.189756",1577
+"Stockton - E Morada Ln, CA",4255 E Morada Ln,Stockton,CA,95212,USA,12,250,"38.039095, -121.260928",11
+"Azusa, CA",809 N Azusa Ave,Azusa,CA,91702,USA,16,250,"34.1367, -117.9082",190
+"Calabasas - Commons Way, CA",4799 Commons Way,Calabasas,CA,91302,USA,20,250,"34.154607, -118.645367",292
+"Highland, CA",27961 Highland Avenue,Highland,CA,92346,USA,8,250,"34.135136, -117.195193",450
+"Chula Vista - Showroom Pl, CA",881 Showroom Pl,Chula Vista,CA,91914,USA,16,250,"32.651478, -116.954543",210
+"Needles - W Broadway St, CA",2410 W Broadway St,Needles,CA,92363,USA,12,250,"34.850856, -114.622865",155
+"Needles - E Broadway St, CA",1020 E Broadway St,Needles,CA,92363,USA,12,250,"34.825734, -114.594896",166
+"Needles, CA",2451 Needles Hwy,Needles,CA,92363,USA,4,150,"34.850835, -114.624329",157
+"Ontario, CA",155 E C St,Ontario,CA,91764,USA,8,250,"34.066162, -117.65027",309
+"Dublin - Amador Valley Blvd, CA",7841 Amador Valley Blvd,Dublin,CA,94568,USA,12,250,"37.7066, -121.9348",109
+"Weaverville, CA",1665 Main St,Weaverville,CA,96093,USA,8,250,"40.720505, -122.928071",606
+"San Diego - Genesee Ave, CA",4310 Genesee Ave,San Diego,CA,92117,USA,8,250,"32.821662, -117.184317",112
+"Bakersfield - Copus Rd, CA",10565 Copus Rd,Kern County,CA,93313,USA,20,250,"35.094874, -119.040158",100
+"San Ardo, CA",65340 Los Lobos Rd,San Ardo,CA,93450,USA,12,250,"35.97477, -120.900203",150
+"Selma, CA",2851 Highland Ave,Selma,CA,93662,USA,16,250,"36.574434, -119.629402",94
+"Folsom - Iron Point Rd, CA",13000 Folsom Blvd,Folsom,CA,95630,USA,4,120,"38.64258, -121.18806",63
+"Vernon, CA",3805 S Soto St,Vernon,CA,90058,USA,8,250,"34.008048, -118.220145",63
+"Oakland - Hegenberger Rd, CA",640 Hegenberger Rd,Oakland,CA,94621,USA,16,250,"37.746403, -122.195614",4
+"Castaic, CA",29435 The Old Rd,Castaic,CA,91384,USA,12,250,"34.452312, -118.61614",315
+"Burbank - N San Fernando Blvd, CA",1009 N San Fernando Blvd,Burbank,CA,91504,USA,8,250,"34.187565, -118.318197",185
+"Newhall, CA",23502 Newhall Ave,Santa Clarita,CA,91321,USA,16,250,"34.3683, -118.5092",413
+"Costa Mesa - Bristol St, CA",1400 Bristol St,Costa Mesa,CA,92626,USA,12,250,"33.66627, -117.882682",14
+"Martinez, CA",520 Center Ave,Martinez,CA,94553,USA,16,250,"37.99316, -122.12137",73
+"Pasadena - E Colorado Blvd, CA",3500 E Colorado Blvd,Pasadena,CA,91107,USA,16,250,"34.145015, -118.078417",207
+"Mojave - 16870 CA-14, CA",16870 CA-14,Mojave,CA,93501,USA,20,250,"35.067855, -118.175439",862
+"Long Beach, CA",6527 Pacific Coast Hwy,Long Beach,CA,90803,USA,20,250,"33.7574, -118.1074",3
+"Buttonwillow - Cal Club Rd, CA",24551 W Lerdo Hwy,Buttonwillow,CA,93206,USA,16,250,"35.497199, -119.554591",77
+"Tustin - Red Hill Ave, CA",14521 Red Hill Ave,Tustin,CA,92780,USA,12,250,"33.727381, -117.821821",28
+"Vacaville - Browns Valley Pkwy, CA",154 Browns Valley Pkwy,Vacaville,CA,95688,USA,8,250,"38.365225, -121.967972",40
+"Victorville, CA",14598 7th St,Victorville,CA,92395,USA,16,250,"34.517047, -117.313614",897
+"Burney, CA",38389 CA-299,Burney,CA,96013,USA,8,250,"40.924144, -121.620569",982
+"South Lake Tahoe, CA",2977 US HWY 50,South Lake Tahoe,CA,96150,USA,8,250,"38.85543, -120.013284",1931
+"Ventura, CA",4095 Telegraph Rd,Ventura,CA,93003,USA,12,250,"34.275162, -119.239734",57
+"Modesto - Joyce Ave, CA",1212 Joyce Ave,Modesto,CA,95351,USA,8,250,"37.61061, -120.976745",29
+"Dunnigan, CA",30038 County Road 8,Dunnigan,CA,95937,USA,8,250,"38.862861, -121.951538",17
+"Vacaville - Alamo Dr, CA",870 Alamo Dr,Vacaville,CA,95688,USA,12,250,"38.347268, -121.999145",54
+"Valencia, CA",27750 The Old Rd,Valencia,CA,91355,USA,8,250,"34.4237, -118.5845",328
+"Fairfield - 3001 Travis Blvd, CA",3001 Travis Blvd,Fairfield,CA,94534,USA,12,250,"38.257435, -122.065449",13
+"Anaheim - W Lincoln Ave, CA",1128 W Lincoln Ave,Anaheim,CA,92805,USA,16,250,"33.8321991, -117.9293952",44
+"Roseville - Freedom Way, CA",1851 Freedom Way,Roseville,CA,95678,USA,24,250,"38.792458, -121.298228",39
+"Lake Forest - Muirlands Blvd, CA",24301 Muirlands Blvd,Lake Forest,CA,92630,USA,24,250,"33.629413, -117.705886",113
+"Grass Valley, CA",692 Freeman Lane,Grass Valley,CA,95949,USA,12,250,"39.199798, -121.064216",744
+"Palo Alto - Bryant St, CA",445 Bryant St,Palo Alto,CA,94301,USA,19,250,"37.446507, -122.162028",18
+"Santa Monica - Cloverfield Blvd, CA",1819 Cloverfield Blvd,Santa Monica,CA,90404,USA,16,250,"34.025098, -118.469543",49
+"Mission Viejo - Crown Valley Pkwy, CA",27741 Crown Valley Pkwy,Mission Viejo,CA,92691,USA,8,72,"33.5607, -117.672028",90
+"Walnut Creek - Oak Grove Rd, CA",2290 Oak Grove Rd,Walnut Creek,CA,94598,USA,12,250,"37.930078, -122.014812",37
+"Lake Elsinore - Grape Street, CA",31500 Grape Street,Lake Elsinore,CA,92532,USA,16,250,"33.65937259957883, -117.29450572076",416
+"Coalinga, CA",24553 W Dorris Ave,Coalinga,CA,93210,USA,80,250,"36.253519, -120.240461",141
+"Lawndale, CA",15207 Hawthorne Blvd,Lawndale,CA,90260,USA,8,250,"33.893485, -118.352964",17
+"San Clemente, CA",101 West Avenida Vista Hermosa,San Clemente,CA,92672,USA,49,250,"33.437177, -117.62712",46
+"Costa Mesa - Hyland Ave, CA",3303 Hyland Ave,Costa Mesa,CA,92626,USA,8,250,"33.692874, -117.92514",9
+"Beaumont - Oak Valley Village Cir, CA",1815 Oak Valley Village Cir,Beaumont,CA,92223,USA,24,250,"33.946913, -117.00056",762
+"Yermo - Sunrise Canyon Rd, CA",40865 Sunrise Canyon Rd,Yermo,CA,92398,USA,40,250,"34.919528, -116.769185",577
+"Milpitas - S Abbott Ave, CA",333 S Abbott Ave,Milpitas,CA,95035,USA,12,250,"37.42537, -121.914559",7
+"West Covina, CA",2650 E Garvey Ave,West Covina,CA,91791,USA,16,250,"34.070663, -117.889053",147
+"Fullerton, CA",205 E Orangethorpe Ave,Fullerton,CA,92832,USA,16,250,"33.859694, -117.921706",47
+"Lakewood, CA",5603 Woodruff Ave,Lakewood,CA,90713,USA,20,250,"33.858572, -118.116389",16
+"Carlsbad - Van Allen Way, CA",5806 Van Allen Way,Carlsbad,CA,92008,USA,8,250,"33.13507, -117.288012",75
+"Long Beach - Long Beach Blvd, CA",6590 Long Beach Blvd,Long Beach,CA,90805,USA,8,250,"33.87396, -118.202413",18
+"El Portal, CA",11136 CA-140,El Portal,CA,95318,USA,8,250,"37.679047, -119.763477",639
+"San Mateo - De Anza Blvd, CA",230 De Anza Blvd,San Mateo,CA,94402,USA,8,250,"37.5215, -122.3377",102
+"Tustin - Flight Way, CA",1705 Flight Way,Tustin,CA,92782,USA,7,250,"33.704288, -117.836881",15
+"Visalia, CA",6603 Betty Dr,Visalia,CA,93291,USA,19,250,"36.350804, -119.4247",86
+"Laguna Hills - Moulton Pkwy, CA",23701 Moulton Pkwy,Laguna Hills,CA,92653,USA,16,250,"33.618222, -117.733708",105
+"Lathrop, CA",192 Lathrop Rd,Lathrop,CA,95330,USA,11,250,"37.826148, -121.285965",6
+"Vallejo, CA",904 Admiral Callaghan Ln,Vallejo,CA,94591,USA,18,150,"38.131215, -122.223369",30
+"Richmond - Pierce St, CA",3288 Pierce St,Richmond,CA,94804,USA,16,250,"37.898736, -122.308672",4
+"Hawthorne - W 120th St, CA",2700 W 120th St,Hawthorne,CA,90250,USA,20,250,"33.923198, -118.322218",21
+"Tustin - Franklin Ave, CA",14461 Franklin Ave,Tustin,CA,92780,USA,36,250,"33.716605, -117.810303",19
+"Yucca Valley, CA",57220 Twentynine Palms Hwy,Yucca Valley,CA,92284,USA,16,250,"34.12375, -116.415727",993
+"Barstow, CA",2812 Lenwood Rd,Barstow,CA,92311,USA,16,150,"34.849129, -117.085446",725
+"Northridge, CA",9022 Tampa Ave,Northridge,CA,91324,USA,24,250,"34.23471, -118.55287",252
+"La Quinta, CA",50929 Washington St,La Quinta,CA,92253,USA,8,250,"33.678373, -116.296225",13
+"Barstow - E Virginia Way, CA",502 E Virginia Way,Barstow,CA,92311,USA,10,250,"34.8864348, -117.0198947",721
+"Brea - S Madrona Ave, CA",175 S Madrona Ave,Brea,CA,92821,USA,24,250,"33.919492, -117.902014",109
+"Santa Monica, CA",1401 Santa Monica Blvd,Santa Monica,CA,90404,USA,62,250,"34.024585, -118.485771",41
+"Victorville - Amargosa Rd, CA","Restaurant Row, 11604 Amargosa Rd",Victorville,CA,92392,USA,16,250,"34.463156, -117.354375",983
+"Marysville, CA",5416 Lindhurst Ave,Marysville,CA,95901,USA,8,250,"39.111142, -121.55662",19
+"Mariposa, CA",5034 Coakley Circle,Mariposa,CA,95338,USA,12,250,"37.488952, -119.972428",605
+"Palmdale - 10th St W, CA",39626 10th St W,Palmdale,CA,93551,USA,24,250,"34.602239, -118.146111",813
+"Mojave - CA-14, CA",16862 CA-14,Mojave,CA,93501,USA,12,250,"35.067128, -118.176174",863
+"Irvine - 5396 Walnut Ave, CA",5396 Walnut Ave,Irvine,CA,92604,USA,12,250,"33.691241, -117.769787",47
+"Mammoth Lakes - Old Mammoth Rd, CA",686 Old Mammoth Rd,Mammoth Lakes,CA,93546,USA,12,250,"37.636186, -118.967973",2393
+"Laguna Hills, CA",25272 Cabot Rd,Laguna Hills,CA,92653,USA,16,250,"33.595554, -117.675507",112
+"Pleasanton, CA",6770 Santa Rita Rd,Pleasanton,CA,94588,USA,12,250,"37.69989, -121.871035",105
+"Irvine - Main St, CA",1970 Main St,Irvine,CA,92614,USA,24,72,"33.684357, -117.851746",11
+"Los Angeles - Venice Blvd, CA",8985 Venice Blvd,Los Angeles,CA,90034,USA,44,250,"34.027942, -118.393968",35
+"Redding - Hilltop Dr, CA",1900 Hilltop Dr,Redding,CA,96002,USA,44,250,"40.578643, -122.359162",176
+"Commerce - East Telegraph Rd, CA",6131 Telegraph Rd,Commerce,CA,90040,USA,40,250,"33.998539, -118.146359",44
+"Whittier, CA",15360 Whittier Blvd,Whittier,CA,90603,USA,12,250,"33.945806, -117.999033",74
+"San Diego - Navajo Rd, CA",8766 Navajo Rd,San Diego,CA,92119,USA,12,250,"32.80385, -117.008942",212
+"Big Bear Lake, CA",40568 Village Dr,Big Bear Lake,CA,92315,USA,6,250,"34.241476, -116.91696",2066
+"Yorba Linda - Yorba Linda Blvd, CA",18210 Yorba Linda Blvd,Yorba Linda,CA,92886,USA,8,250,"33.887662, -117.81376",114
+"Calimesa, CA",497 Sandalwood Dr,Calimesa,CA,92320,USA,12,250,"33.993267, -117.056082",734
+"Tejon Ranch - Outlets at Tejon Pkwy, CA",5701 Outlets at Tejon Pkwy,Arvin,CA,93203,USA,76,250,"34.985959, -118.94385",337
+"Barstow - Tanger Way, CA",2796 Tanger Way,Barstow,CA,92311,USA,20,250,"34.8446, -117.0862",729
+"Cypress, CA",4959 Katella Ave,Cypress,CA,90720,USA,16,250,"33.804336, -118.044231",8
+"Santa Nella, CA",13070 CA-33,Santa Nella,CA,95322,USA,48,250,"37.100209, -121.012011",44
+"Newport Beach, CA",4241 MacArthur Blvd,Newport Beach,CA,92660,USA,12,250,"33.665072, -117.864896",16
+"Newark - Gateway Blvd, CA",8200 Gateway Blvd,Newark,CA,94560,USA,22,250,"37.536013, -122.063348",3
+"Huntington Park, CA",5731 Bickett St,Huntington Park,CA,90255,USA,12,250,"33.990229, -118.216265",52
+"West Covina - 1414 S Azusa Ave, CA",1414 S Azusa Ave,West Covina,CA,91791,USA,20,250,"34.047758, -117.906879",158
+"Daly City - Mission St, CA",6917 Mission St,Daly City,CA,94014,USA,15,250,"37.696548, -122.463229",96
+"Alhambra, CA",2400 W Commonwealth Ave,Alhambra,CA,91803,USA,12,250,"34.087069, -118.151192",144
+"Scotts Valley, CA",230 Mount Hermon Rd,Scotts Valley,CA,95066,USA,16,250,"37.047608, -122.027743",161
+"El Dorado Hills, CA",3935 Park Dr,El Dorado Hills,CA,95762,USA,12,250,"38.656461, -121.070673",192
